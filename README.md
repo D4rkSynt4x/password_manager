@@ -22,7 +22,8 @@
 1. Clone this repository:
    ```bash
    https://github.com/D4rkSynt4x/password_manager.git
-   cd cryptX
+   cd cryptx
+   cd src
    
 
 2.  Install the required dependencies
@@ -31,7 +32,7 @@
 
 3.  Launch cryptX
     ```bash
-    python -m cryptX.main
+    python cryptX.py
 
 Usage
 
